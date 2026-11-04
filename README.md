@@ -1,0 +1,3 @@
+# Repository for "A comment on “Gender differences on the age-related distal-to- proximal shift in joint kinetics during running”
+
+This repository holds the reproduction code for the comment on Kearns, DeVita and Paquette (2024), which was written as part of the Institute for Replication Sports Science project. The analysis code can be found in the `script.R` file. The code is licensed under a MIT license.
